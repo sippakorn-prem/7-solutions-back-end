@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "IronGeek.vscode-env",
+    "oderwat.indent-rainbow",
+    "redhat.vscode-yaml",
+    "Thinker.sort-json"
+  ]
+}

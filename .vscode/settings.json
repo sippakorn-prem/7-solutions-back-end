@@ -1,0 +1,11 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.fixAll.eslint": true,
+    "source.fixAll.sort-json": "never",
+    "source.organizeImports": true
+  },
+  "editor.tabSize": 2,
+  "files.insertFinalNewline": true,
+	"files.trimFinalNewlines": true
+}
