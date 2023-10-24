@@ -1,5 +1,10 @@
 # Assignment
 
+## How to start
+```npm install```
+
+```npm run start:dev```
+
 ## 2. Create data from API 
 
 API from <https://dummyjson.com/users>
